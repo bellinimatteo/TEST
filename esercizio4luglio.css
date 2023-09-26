@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&family=Open+Sans:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital@1&family=Raleway:wght@100;200&family=Roboto+Slab:wght@600;700&family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,500&family=Ysabeau+Infant:ital,wght@0,200;1,100&display=swap');
+
+body
+{
+    font-family: 'EB Garamond', serif;
+}
+
+
+.display-3{
+    color: red;
+    font-family: 'EB Garamond', serif;
+}
+
+.display-1 {
+    font-display: bold;
+}
+
+.display-4 {
+    font-size: 100px;
+    font-display: bold;
+    color: red;
+}
+
+hr{
+    color: 25px solid red;
+}
+.img1 , .img2{
+    width: 95%;
+    height: 95%;}
+
+    .img3 , .img4 {
+        width: 95%;
+        height: 95%;
+    }
+
+    .img5 , .img6 {
+        width: 95%;
+        height: 95%;
+    }
+
+    .titolo2 {
+        text-align: left;
+    }
+
+    .container-xl{
+        padding-top: 60px;
+    }
+    
+    
+  .paragrafo1{
+    font-size: 20px;
+    font-weight: 10px
+    ;
+  }
+
+  .paragrafo2 {
+    font-size: 20px;
+    font-weight: 10px
+    ;
+  }
+
+  .container-lg{
+    padding-top: 60px;
+  }
+
+  .paragrafo3 {
+    font-size: 20px;
+    font-weight: 10px;
+  }
+
+  .paragrafo4{
+    font-size: 20px;
+    font-weight: 10px;
+  }
+
+  .paragrafo5 {
+    font-size: 20px;
+    font-weight: 10px
+    ;
+  }
+
+  .img7{
+    width: 95%;
+    height: 85%;
+    filter: grayscale(100%);
+  }
+
+  .pcolonna{
+    background-color: rgb(227, 221, 221);
+    margin-right: 10px;
+    margin-left: 10px;
+    
+    
+  }
+
+  .titolo1 {
+    font-size: 20px;
+    font-weight: 10px;
+    margin-right: 20px;
+  }
+
+
+
+    
+    
